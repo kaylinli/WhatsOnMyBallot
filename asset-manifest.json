@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WhatsOnMyBallot/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/WhatsOnMyBallot/static/js/main.409a554a.chunk.js",
+    "main.js.map": "/WhatsOnMyBallot/static/js/main.409a554a.chunk.js.map",
+    "runtime-main.js": "/WhatsOnMyBallot/static/js/runtime-main.16b5942b.js",
+    "runtime-main.js.map": "/WhatsOnMyBallot/static/js/runtime-main.16b5942b.js.map",
+    "static/js/2.9160fd60.chunk.js": "/WhatsOnMyBallot/static/js/2.9160fd60.chunk.js",
+    "static/js/2.9160fd60.chunk.js.map": "/WhatsOnMyBallot/static/js/2.9160fd60.chunk.js.map",
+    "static/js/3.46032fb8.chunk.js": "/WhatsOnMyBallot/static/js/3.46032fb8.chunk.js",
+    "static/js/3.46032fb8.chunk.js.map": "/WhatsOnMyBallot/static/js/3.46032fb8.chunk.js.map",
+    "index.html": "/WhatsOnMyBallot/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/WhatsOnMyBallot/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.9160fd60.chunk.js.LICENSE.txt": "/WhatsOnMyBallot/static/js/2.9160fd60.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/WhatsOnMyBallot/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b5942b.js",
+    "static/js/2.9160fd60.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.409a554a.chunk.js"
+  ]
+}
